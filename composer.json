@@ -1,0 +1,13 @@
+{
+    "require": {
+        "cijic/phpmorphy": "^0.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Parser\\" : "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    }
+}
